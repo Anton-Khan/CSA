@@ -6,14 +6,14 @@
 
 - | id| int(11)        | PRI | auto_increment |
 
-- | name  | varchar(20)|     |                |
+- | name  | varchar(20)|
 
-- | type  | varchar(15)|     |                |
+- | type  | varchar(15)|
 
-- | sex   | varchar(1) |     |                |
+- | sex   | varchar(1) |
 
-- | age   | int(11)    |     |                |
+- | age   | int(11)    |
 
-- | price | double     |     |                |
+- | price | double     |
 
 
