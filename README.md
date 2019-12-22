@@ -3,7 +3,6 @@
 
 - | Field | Type       | Key | Extra          |
 
--
 
 - | id| int(11)        | PRI | auto_increment |
 
