@@ -1,5 +1,5 @@
 # CSA
- # petshop-spring - Лабораторная № 3 магазин животных, нужна mysql база данных, c таблицей:
+ # petshop-spring.zip - Лабораторная № 3 магазин животных, нужна mysql база данных, c таблицей:
 
 - | Field | Type       | Key | Extra          |
 
